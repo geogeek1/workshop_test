@@ -4,6 +4,7 @@ def add(x, y):
     return x + y
 
 def power(x, n):
+    # comment
     return x**n
 
 def subtract(x, y):
