@@ -16,7 +16,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "Division by zero is not allowed"
+        return "Division by zero is not allowed."
     return x / y
 
 if __name__ == "__main__":
