@@ -9,6 +9,7 @@ def read_csv(file_path):
         csv_reader = csv.reader(file)
         for row in csv_reader:
             data.append(row)
+    print(1)
     return data
 
 def read_json(file_path):
