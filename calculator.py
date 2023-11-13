@@ -4,8 +4,8 @@ def add(x, y):
     return x + y
 
 def power(x, n):
-    # comment
-    return x**n
+    # comments
+    return some_super_fast_power(x, n)
 
 def subtract(x, y):
     return x - y
