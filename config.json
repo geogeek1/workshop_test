@@ -1,0 +1,4 @@
+{
+    "data_source": "sample_data.csv",
+    "output_format": "json"
+}
